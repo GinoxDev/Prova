@@ -308,7 +308,8 @@ class Prova
 	    // Drive apps should try to retrieve the user and credentials for
 	    // the current
 	    // session.
-	    //aabb
+	    //aab
+	    //b 
 	    // If none is available, redirect the user to the authorization URL.
 	    e.setAuthorizationUrl(getAuthorizationUrl(emailAddress, state));
 	    throw e;
